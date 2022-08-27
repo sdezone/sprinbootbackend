@@ -1,0 +1,6 @@
+com/sdezone/sdezone/dpatter/Run.class
+com/sdezone/sdezone/dpatter/StaticBlocSingelton.class
+com/sdezone/sdezone/SdezoneApplication.class
+com/sdezone/sdezone/dpatter/EagerInitializationSingleton.class
+com/sdezone/sdezone/dpatter/TreadSafeSingelton.class
+com/sdezone/sdezone/dpatter/LazySingelton.class
